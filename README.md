@@ -24,29 +24,38 @@
 # 게임화면
 ### 시작화면
 ![image](https://user-images.githubusercontent.com/92067099/174250948-b442a2f3-7fe7-471c-89ee-c744849d5cf9.png)
+![image](https://user-images.githubusercontent.com/92067099/174255264-446063dc-a8d7-418c-bca9-a9a5f9c2f617.png)
+
 
 ### 게임로비화면
 ![image](https://user-images.githubusercontent.com/92067099/174251321-534fcf65-e3a4-4e3a-98e6-e0fd7adaa8e7.png)
+![image](https://user-images.githubusercontent.com/92067099/174255294-1010036c-a551-4eb3-ad5a-547f995ef9cd.png)
+
 
 ### 단어를 추가하는 과정
 ![image](https://user-images.githubusercontent.com/92067099/174251512-588c98d2-eb2f-4b41-9bd3-36ecd24f53c6.png)
-
 ![image](https://user-images.githubusercontent.com/92067099/174251560-656ffc15-5057-414b-b0b3-57b5ab8651f3.png)
+![image](https://user-images.githubusercontent.com/92067099/174255307-7f4985e8-0090-494d-83cb-8e4e96ff8d7c.png)
 
 ### 난이도 설정
 ![image](https://user-images.githubusercontent.com/92067099/174251602-d222121e-66c3-45fd-8808-2cbb6bc23ada.png)
+![image](https://user-images.githubusercontent.com/92067099/174255319-91b3f470-356d-4a23-bae1-ac82ee9cc24f.png)
 
 ### 게임실행화면
 ![image](https://user-images.githubusercontent.com/92067099/174251856-d4ae811f-b0ea-48ee-b8da-c20d48562286.png)
+![image](https://user-images.githubusercontent.com/92067099/174255323-08e9ad84-ceaf-42de-aae1-01ddc92cc0fd.png)
 
 ### 오타를 내지않고 4회이상 맞춰 행복한 이모티콘으로 변한 화면
 ![image](https://user-images.githubusercontent.com/92067099/174251982-7c27fc57-5145-4bf5-b98b-5c36cd92b443.png)
+![image](https://user-images.githubusercontent.com/92067099/174255330-3fa73cd2-ccbf-4bd6-94c3-3028b448ab18.png)
 
 ### 오타를 내어 이모티콘이 우는 이모티콘으로 변한 화면
 ![image](https://user-images.githubusercontent.com/92067099/174252082-28891c10-120c-4fa9-87b5-ecdb3dd987b6.png)
+![image](https://user-images.githubusercontent.com/92067099/174255335-eadf2fba-bfbf-4e6f-93da-12dc57a38887.png)
 
 ### 게임오버
 ![image](https://user-images.githubusercontent.com/92067099/174252269-cab16a8d-8f57-4283-9e51-07f073180670.png)
+![image](https://user-images.githubusercontent.com/92067099/174255339-30c65bd0-4e14-4ef5-ad7a-3f3fd31de01a.png)
 
 ### 닉네임을 입력해 랭킹이 갱신
 ![image](https://user-images.githubusercontent.com/92067099/174252353-cd5e4a56-072a-4036-a8e0-08332fca78ad.png)
